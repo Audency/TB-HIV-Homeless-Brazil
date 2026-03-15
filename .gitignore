@@ -28,3 +28,4 @@ check_extra_vars.R
 debug_cols.R
 debug_dbc.R
 analise_coinfeccoes_COMPLETO.R
+outputs/~*

@@ -849,7 +849,7 @@ if (nrow(f3d) > 0) {
     geom_smooth(method = "lm", formula = y ~ x, se = TRUE,
                 colour = "#C0392B", fill = "#E74C3C", alpha = 0.12, linewidth = 0.7) +
     facet_wrap(~label, scales = "free_y", ncol = 2) +
-    scale_x_continuous(breaks = seq(2015, 2024, 2)) +
+    scale_x_continuous(breaks = 2015:2024) +
     scale_y_continuous(labels = function(x) paste0(sprintf("%.0f", x), "%")) +
     labs(x = "Year", y = "Prevalence (%)") +
     tema_lancet + theme(axis.text.x = element_text(angle = 45, hjust = 1))
