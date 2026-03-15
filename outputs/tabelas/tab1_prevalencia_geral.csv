@@ -1,0 +1,41 @@
+Coinfeccao,Grupo,Capital,N_testados,N_positivos,Prevalencia,IC_inferior,IC_superior
+TB-HIV,Total,Todas,221350,31550,14.25,14.11,14.4
+TB-HIV,Total,Salvador,35302,4081,11.56,11.23,11.9
+TB-HIV,Total,Rio de Janeiro,116334,13207,11.35,11.17,11.54
+TB-HIV,Total,Porto Alegre,56634,13116,23.16,22.81,23.51
+TB-HIV,Total,Vitoria,13080,1146,8.76,8.29,9.26
+TB-HIV,PSR,Todas,10438,3409,32.66,31.77,33.57
+TB-HIV,PSR,Salvador,1010,379,37.52,34.59,40.55
+TB-HIV,PSR,Rio de Janeiro,4947,1018,20.58,19.47,21.73
+TB-HIV,PSR,Porto Alegre,3866,1873,48.45,46.87,50.02
+TB-HIV,PSR,Vitoria,615,139,22.6,19.47,26.07
+TB-HIV,Mulheres,Todas,69488,10388,14.95,14.69,15.22
+TB-HIV,Mulheres,Salvador,11616,1263,10.87,10.32,11.45
+TB-HIV,Mulheres,Rio de Janeiro,36621,4034,11.02,10.7,11.34
+TB-HIV,Mulheres,Porto Alegre,17613,4784,27.16,26.51,27.82
+TB-HIV,Mulheres,Vitoria,3638,307,8.44,7.58,9.39
+TB-HIV,>=45 anos,Todas,81438,9729,11.95,11.73,12.17
+TB-HIV,>=45 anos,Salvador,14921,1186,7.95,7.53,8.39
+TB-HIV,>=45 anos,Rio de Janeiro,40526,3931,9.7,9.42,9.99
+TB-HIV,>=45 anos,Porto Alegre,21310,4234,19.87,19.34,20.41
+TB-HIV,>=45 anos,Vitoria,4681,378,8.08,7.33,8.89
+TB-HIV,Mulheres em situacao de rua,Todas,2450,1203,49.1,47.13,51.08
+TB-HIV,Mulheres em situacao de rua,Salvador,236,139,58.9,52.53,64.98
+TB-HIV,Mulheres em situacao de rua,Rio de Janeiro,1154,359,31.11,28.5,33.84
+TB-HIV,Mulheres em situacao de rua,Porto Alegre,920,663,72.07,69.08,74.87
+TB-HIV,Mulheres em situacao de rua,Vitoria,140,42,30,23.03,38.04
+TB-HIV,>=45 anos em situacao de rua,Todas,3175,837,26.36,24.86,27.92
+TB-HIV,>=45 anos em situacao de rua,Salvador,334,82,24.55,20.24,29.44
+TB-HIV,>=45 anos em situacao de rua,Rio de Janeiro,1436,205,14.28,12.56,16.18
+TB-HIV,>=45 anos em situacao de rua,Porto Alegre,1228,514,41.86,39.13,44.64
+TB-HIV,>=45 anos em situacao de rua,Vitoria,177,36,20.34,15.07,26.87
+TB-HIV,Homens em situacao de rua,Todas,7988,2206,27.62,26.65,28.61
+TB-HIV,Homens em situacao de rua,Salvador,774,240,31.01,27.85,34.35
+TB-HIV,Homens em situacao de rua,Rio de Janeiro,3793,659,17.37,16.2,18.61
+TB-HIV,Homens em situacao de rua,Porto Alegre,2946,1210,41.07,39.31,42.86
+TB-HIV,Homens em situacao de rua,Vitoria,475,97,20.42,17.04,24.28
+TB-Sifilis (estimativa ecologica),Total,Todas,262701,186278,70.91,NA,NA
+TB-Sifilis (estimativa ecologica),Total,Salvador,48354,32911,68.06,NA,NA
+TB-Sifilis (estimativa ecologica),Total,Rio de Janeiro,135752,83254,61.33,NA,NA
+TB-Sifilis (estimativa ecologica),Total,Porto Alegre,63871,55714,87.23,NA,NA
+TB-Sifilis (estimativa ecologica),Total,Vitoria,14724,14399,97.79,NA,NA

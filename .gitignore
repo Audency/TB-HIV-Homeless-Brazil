@@ -1,0 +1,30 @@
+# R
+.Rhistory
+.Rdata
+.RData
+.Rproj.user
+*.Rproj
+
+# Dados brutos grandes (baixados do DATASUS)
+outputs/dados_tb_limpos.rds
+outputs/dados_sif_limpos.rds
+outputs/modelos/
+
+# Temporarios
+*.dbc
+*.tmp
+.DS_Store
+
+# Arquivos antigos (substituidos)
+parte1_setup_dados.R
+parte2_descritiva.R
+parte3_series_temporais.R
+parte4_modelos.R
+parte5_visualizacoes.R
+check_pkg.R
+check_sinan.R
+check_vars.R
+check_extra_vars.R
+debug_cols.R
+debug_dbc.R
+analise_coinfeccoes_COMPLETO.R
